@@ -1,2 +1,3 @@
 # Convert-plain-text-to-NT-Hash
-Convert plain text string to Windows NT hash (SAM &amp; NTDS)
+
+Script that convert plain text string to a Windows NT hash (SAM & NTDS)
